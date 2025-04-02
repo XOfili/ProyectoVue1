@@ -1,3 +1,8 @@
+## Autor
+## - Nombre: Filiberto Adolfo Sañudo Obregón
+## - Email: a23311084@uthermosillo.edu.mx // filibertosanudo@gmail.com
+## - GitHub [@XOfili] https://github.com/XOfili
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
